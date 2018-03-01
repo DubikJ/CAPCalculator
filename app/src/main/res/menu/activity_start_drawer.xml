@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_calc_money"
+            android:icon="@drawable/ic_calc_money"
+            android:title="@string/action_calc_money_short"/>
+        <item
+            android:id="@+id/nav_calc_tax"
+            android:icon="@drawable/ic_calc_tax"
+            android:title="@string/action_calc_tax_short"/>
+    </group>
+
+    <item android:title="@string/other">
+        <menu>
+            <item
+                android:id="@+id/nav_setting"
+                android:icon="@drawable/ic_settings"
+                android:title="@string/action_settings"/>
+            <item
+                android:id="@+id/nav_info"
+                android:icon="@drawable/ic_info"
+                android:title="@string/action_info"/>
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_exit"
+                android:title="@string/action_exit"/>
+        </menu>
+    </item>
+
+</menu>

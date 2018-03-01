@@ -1,0 +1,113 @@
+<resources>
+
+    <string name="app_name">ФОП податки</string>
+    <string name="app_name_title">ФОП калькулятор</string>
+    <string name="app_name_full">Калькулятор податків для ФОП</string>
+    <string name="dev_mail">vanyadubik@gmail.com</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_calc_money_short">Нарахування податків</string>
+    <string name="action_calc_tax_short">Розрахунок податків</string>
+    <string name="other">Інше</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="action_exit">Вихід</string>
+    <string name="action_save">Зберегти</string>
+    <string name="action_calculate">Розрахувати</string>
+    <string name="action_default">Відновити за замовчуванням</string>
+    <string name="action_info">Інформація</string>
+
+    <string name="person">Особа</string>
+    <string name="tax_system">Система оподаткування</string>
+    <string name="group">Группа</string>
+    <string name="tax">ПДВ</string>
+
+
+    <string name="income">Дохід</string>
+
+    <string name="all_tax">Всього податків</string>
+    <string name="income_amount">Сума доходу</string>
+    <string name="income_amount_base">Сума бази</string>
+
+    <string name="income_with_tax">Дохід з ПДВ</string>
+    <string name="income_without_tax">Дохід без ПДВ</string>
+    <string name="costs">Витрати</string>
+    <string name="costs_amount">Сума витрат</string>
+    <string name="costs_with_tax">Витрати з ПДВ</string>
+    <string name="costs_without_tax">Витрати без ПДВ</string>
+
+    <string name="costs_add">Додаткові витрати</string>
+    <string name="costs_add_percent">Додаткові витрати, %</string>
+
+    <string name="living_min">Прожиточный минимум</string>
+    <string name="living_min_short">ПМПО</string>
+
+    <string name="salary">Мінімальна зарплатня</string>
+    <string name="salary_short">Зарплатня</string>
+
+    <string name="single_tax_rate">Ставка єдиного податку</string>
+    <string name="first_group_percent">Перша група, %</string>
+    <string name="second_group_percent">Друга група, %</string>
+    <string name="third_group_percent_tax">Третя група з ПДВ, %</string>
+    <string name="third_group_percent">Третя група без ПДВ, %</string>
+
+    <string name="single_social_contribution">Единий соціальний внесок</string>
+    <string name="single_soc">ЄСВ</string>
+    <string name="single_soc_contr_percent">Ставка ЄСВ, %</string>
+
+    <string name="military_percent_short">Військовий збір</string>
+    <string name="military_percent">Військовий збір, %</string>
+
+    <string name="income_tax">ПДФО</string>
+
+    <string name="single_tax">Єдиний податок</string>
+
+    <string name="double_press_exit">Будь ласка, натисніть ще раз НАЗАД, щоб закрити програму</string>
+    <string name="questions_exit">Ви впевнені що хочете вийти ?</string>
+    <string name="questions_data_save">Зберегти дані?</string>
+    <string name="questions_data_set_default">Відновити за замовчуванням?</string>
+    <string name="questions_title_info">Інфо</string>
+    <string name="questions_answer_yes">Так</string>
+    <string name="questions_answer_save">Зберегти</string>
+    <string name="questions_answer_no">Ні</string>
+    <string name="questions_answer_cancel">Відмінити</string>
+    <string name="questions_answer_ok">Ок</string>
+    <string name="error_field_required">Це поле є обов\'язковим</string>
+
+    <string name="tax_system_1">Спрощена</string>
+    <string name="tax_system_2">Загальна</string>
+    <string name="tax_system_3">Незалежна проф. діяльність</string>
+
+    <string name="group_1">Перша група</string>
+    <string name="group_2">Друга група</string>
+    <string name="group_3">Третя група</string>
+
+    <string name="tax_1">З ПДВ</string>
+    <string name="tax_2">Без ПДВ</string>
+
+    <!--Info-->
+    <string name="calculate_one_mounth">Розрахунок ведеться за один місяць</string>
+
+
+    <string name="result_calс">Результат розрахунку</string>
+    <string name="zero_money">0,00₴</string>
+    <string name="zero_symbol">₴</string>
+
+    <string name="which_is">що складає</string>
+    <string name="of_income"> від доходу</string>
+
+    <string name="log_error_name">Звіт про помилку</string>
+    <string name="сontact_developer">Зв\'язатися з розробником</string>
+
+    <string name="action_calc_money_description">Нарахування податку на базову суму</string>
+    <string name="action_calc_tax_description">Розрахунок податків з суми прибутку</string>
+    <string name="app_description_1">Калькулятор виконує розрахунки для фізичних осіб підприемців, за умови відсутності працівників.</string>
+    <string name="app_description_2">Нарахування податків ведуться згідно законодавства на 1 січня 2018 року.</string>
+    <string name="app_description_3">Деякі параметри можуть змінюватись протягом року, їх можна змінювати в налаштуваннях.</string>
+    <string name="app_description_4">Ставка єдиного податку визначаеться місцевими радами. За замовчування використовуеться максимальна ставка на 1 січня 2018 року.</string>
+    <string name="app_description_5">Додаток створенный на прикладі "Податкового колькулятору 2017" для IOS</string>
+    <string name="link">посилання</string>
+    <string name="link_tax_calculator">https://apps.sinko.me/uk/apps/taxcalculator/</string>
+
+</resources>
